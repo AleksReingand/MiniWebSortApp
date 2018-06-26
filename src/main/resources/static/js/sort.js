@@ -1,4 +1,4 @@
-var url = "http://127.0.0.1:8080/sort?number=";
+var url = "https://miniwebappsort.herokuapp.com/sort?number=";
 var number;
 
 //function template requests
