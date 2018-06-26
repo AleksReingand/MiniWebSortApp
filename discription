@@ -1,0 +1,5 @@
+
+Start app after load in IDEA
+1. start server file TaskApplication
+2. App start from port localhost:8080
+3. start http file index.http

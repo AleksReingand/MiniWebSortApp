@@ -1,0 +1,23 @@
+
+.center {
+    height: 100%;
+}
+#main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+#inp{
+    text-align: center;
+}
+#nonSort {
+    text-align: center;
+    margin-top: 20px;
+ }
+#sort {
+    text-align: center;
+}
+#iteration{
+    text-align: center;
+}
