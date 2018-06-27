@@ -20,6 +20,9 @@ function getReq(url) {
 //handler button
 but.addEventListener("click", function () {
     number = inp.value;
+    if(!isFinite(number)){
+        alert("not number");
+    }
     getReq(url + number).then(function (response) {
         //get object
         var listArr = JSON.parse(response);
